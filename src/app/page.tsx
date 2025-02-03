@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex flex-col gap-6 p-12 rounded-xl bg-black/90 w-4/5 sm:max-w-96 mx-auto text-white sm:text-2xl">
         
           <h1 className="text-4xl font-bold">
-            Cas Next<br/>Estudo
+            Cas cas Next<br/>Estudo
           </h1>
           <address>
             Rua Espanha 186 <br/>
